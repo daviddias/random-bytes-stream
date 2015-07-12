@@ -7,4 +7,4 @@ random-bytes-stream
 
 # Usage
 
-
+Take a peek at tests, for now :) 
