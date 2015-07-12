@@ -1,6 +1,6 @@
 {
   "name": "random-bytes-stream",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Create random bytes streams with or not a cap size",
   "main": "src/index.js",
   "scripts": {
